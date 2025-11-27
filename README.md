@@ -1,13 +1,5 @@
 # Distributed Messaging System
 
-COMP90015 Project 1 Group 1984
-
-Group Members:
-- Margareta Hardiyanti	\<mhardiyanti@student.unimelb.edu.au\>
-- Ruifeng Luo			    \<ruifengl@student.unimelb.edu.au\>
-- Zhuxin Yang			    \<zhuxiny1@student.unimelb.edu.au\>
-- Taicheng Zhou			  \<taichengz@student.unimelb.edu.au\>
-
 ## Objective
 Implemented distributed messaging system in a client-server architecture, and utilize multi-threading and socket communication in Java.
 
